@@ -1,0 +1,9 @@
+fastai==2.7.15
+fastcore==1.5.44
+fastdownload==0.0.7
+fastprogress==1.0.3
+filelock==3.14.0
+fonttools==4.47.0
+frozenlist==1.4.1
+fsspec==2024.6.0
+future==0.18.3
