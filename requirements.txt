@@ -1,18 +1,6 @@
 fastai==2.7.15
 fastcore==1.5.44
 fastdownload==0.0.7
-fastprogress==1.0.3
-pywin32==306
-PyYAML==6.0.1
-threadpoolctl==3.5.0
-tiktoken==0.6.0
-tokenizers==0.19.1
-tokentrim==0.1.13
-toml==0.10.2
-toolz==0.12.1
 torch==2.3.1
 torchvision==0.18.1
-tornado==6.4
-tqdm==4.66.4
-traitlets==5.14.3
 
